@@ -17,4 +17,8 @@ We are creating a Tableau story to convince investors that a bike-sharing progra
 
 
 ### Summary
-[link to dashboard](https://public.tableau.com/app/profile/ricardo.robles8362/viz/Bikesharing_Challenge_16274355177560/CitiStory?publish=yes)
+[CitiBike Dashboard](https://public.tableau.com/app/profile/ricardo.robles8362/viz/Bikesharing_Challenge_16274355177560/CitiStory?publish=yes)
+
+The findings suggest, if adopted in more dense populated area, there is consistent use of the citibikes, with peak hours between around 8am and 5pm.
+Two more visualizations that may be valuable would a comparison bewteen top 5 start and stop locations and how citibike usage was affected by recent pandemic (with access to more recent data).
+
